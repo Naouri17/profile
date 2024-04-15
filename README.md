@@ -1,4 +1,3 @@
-# profile
 # PhD in Computer Science 
 
 ## Education
