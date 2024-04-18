@@ -52,13 +52,19 @@ In my projects, I focus on developing innovative solutions that leverage IoT, ar
 ## Skills
 
 My skill set includes expertise in:
-- Help desk and tech support
-- Network configuration
-- Operating systems
-- Leadership and operations
-- Application development and programming languages
-- Version control with Git
-- Video editing and social media management
+    - Problem-Solving and Analytical Thinking: I identify research problems and develop innovative solutions in areas such as IoT, AI, and computing offloading.
+
+    - Data Collection and Analysis: I use a variety of tools to process and interpret data effectively, helping me draw meaningful conclusions.
+
+    - Project Management: I plan and execute research projects efficiently, managing resources, timelines, and collaborations with interdisciplinary teams.
+
+    - Literature Review and Synthesis: I review existing research and synthesize information from multiple sources to inform my work and identify gaps in knowledge.
+
+    - Experiment Design and Evaluation: I design robust experiments to test hypotheses and evaluate performance metrics for reliable results.
+
+    - Publication and Presentation: I communicate my findings through well-prepared research papers, reports, and presentations for academic and industry audiences.
+
+    - Collaboration and Networking: I work closely with other researchers, industry professionals, and institutions to foster knowledge exchange and drive innovation.
 
 ## Education
 
