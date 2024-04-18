@@ -1,13 +1,13 @@
 # Dr. Abdenacer Naouri
 
+
+                    
+## About Me
+
 Recent graduate with a PhD degree in Computer Science from the University of Science and Technology of Beijing, 
 bringing a blend of fieldwork expertise and data-analysis proficiency in IoT, cloud computing, fog computing, 
 edge computing, federated learning, Social Internet of Things, and more. My passion has recently evolved towards AI application, 
 where I aspire to contribute to the development of innovative modeling techniques for computing ecosystems.
-                    
-## About Me
-
-I hold a Ph.D. in Computer Science from the University of Science and Technology Beijing (北京科技大学）and have a strong academic background in embedded systems engineering and fundamental computer science. With experience as a Senior Technical Support Engineer, I specialize in software and hardware troubleshooting, network configuration, and customer support.
 
 ## Research and Publications
 
