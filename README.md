@@ -62,9 +62,9 @@ My skill set includes expertise in:
 
 ## Education
 
-- Ph.D. in Computer Science, University of Science and Technology Beijing
-- Master's in Computer Science, University of Amar Telidji of Laghouat
-- Bachelor's in Computer Science, University of Ziane Achour Djelfa
+- Ph.D. in Computer Science, University of Science and Technology Beijing.
+- Master's in Computer Science, University of Amar Telidji of Laghouat.
+- Bachelor's in Computer Science, University of Ziane Achour Djelfa.
 
 ## Languages
 
