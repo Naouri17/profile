@@ -1,7 +1,4 @@
-# Dr. Abdenacer Naouri
-
-
-                    
+# Dr. Abdenacer Naouri                    
 ## About Me
 
 Recent graduate with a PhD degree in Computer Science from the University of Science and Technology of Beijing, 
@@ -50,7 +47,7 @@ I have contributed to several peer-reviewed publications in top-tier journals an
 
 ## Projects
 
-I have worked on diverse projects, ranging from EEG band discovery to optimizing UAV fog deployment efficiency for critical rescue operations. One of my recent projects includes developing a multimodal latent-features-based service recommendation system for the Social Internet of Things.
+In my projects, I focus on developing innovative solutions that leverage IoT, artificial intelligence, and computing offloading. I created a facial recognition application that utilizes nearby idle devices for efficient task allocation, optimizing latency and communication costs. I also deploy fog nodes in high-traffic urban areas to enhance public safety and use UAV fog nodes in disaster-stricken areas to support evacuation and improve emergency communication infrastructure. Through these projects, I address critical challenges and advance the application of cutting-edge technologies for real-world problem-solving.
 
 ## Skills
 
