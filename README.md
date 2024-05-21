@@ -1,4 +1,4 @@
-# Plant Breeder & Data analyst
+# Researcher & Mobile Developer
 
 #### Summary: 
 Recent graduate with a PhD degree in Computer Science from the University of Science and Technology of Beijing, 
@@ -8,19 +8,6 @@ where I aspire to contribute to the development of innovative modeling technique
 
 #### Publication Statistics:
 Cumulative Impact Factor: **60.5**
-
-I have contributed to several peer-reviewed publications in top-tier journals and conferences, focusing on areas such as fog computing, edge computing, IoT applications, federated learning, and service recommendation systems. Some of my notable publications include:
-
-- **Naouri, Abdenacer;** Wu, Hangxing; Nouri, Nabil Abdelkader; Dhelim, Sahraoui; Ning, Huansheng. "A novel framework for mobile-edge computing by optimizing task offloading." **IEEE Internet of Things Journal 8(16): 13065-13076 (2021). IEEE. Impact Factor: 10.6**.
-
-- **Naouri, Abdenacer;** Ning, Huansheng; Nouri, Nabil Abdelkader; Khelloufi, Amar; Sada, Abdelkarim Ben; Naouri, Salim; Qammar, Attia; Dhelim, Sahraoui. "Maximizing UAV Fog Deployment Efficiency for Critical Rescue Operations." **Future Generation Computer Systems:1-16 (2024). Impact Factor: 7.5**.
-  
-- **Naouri, Abdenacer;** Nouri, Nabil Abdelkader; Khelloufi, Amar; Sada, Abdelkarim Ben; Ning, Huansheng; Dhelim, Sahraoui. "Efficient fog node placement using nature-inspired metaheuristic for IoT applications." **Cluster Computing 1-17 (2024). Springer US New York. Impact Factor: 4.4**.
-
-- **Naouri, Abdenacer;** Nouri, Nabil Abdelkader; Khelloufi, Amar; Sada, Abdelkarim Ben; Naouri, Salim; Ning, Huansheng; Dhelim, Sahraoui. "BusCache: V2V-based infrastructure-free content dissemination system for the Internet of Vehicles." **IEEE Access (2024). IEEE. Impact Factor: 4.0**.
-
-- **Naouri, Abdenacer;** Nouri, Nabil Abdelkader; Qammar, Attia; Shi, Feifei; Ning, Huansheng; Dhelim, Sahraoui. "Task Offloading for Smart Glasses in Healthcare: Enhancing Detection of Elevated Body Temperature." **2023 IEEE International Conference on Smart Internet of Things (SmartIoT).**
-
 Total Citations: **206** <a href="https://scholar.google.com/citations?user=19TeXs8AAAAJ&hl=en&oi=ao" target="_blank">Google Scholar</a>
 
 #### Technical Skills:
@@ -133,6 +120,16 @@ PBHaploMineR is still under development and testing. ETA for first stable versio
 - <a href="https://medium.com/@victorallan" target="_blank">Medium Articles</a>
 
 ## 📜 Publications
+
+I have published and contributed to several  publications in top-tier journals and conferences, focusing on areas such as fog computing, edge computing, IoT applications, federated learning, and service recommendation systems. Some of my notable publications include:
+
+1. Naouri, Abdenacer; Wu, Hangxing; Nouri, Nabil Abdelkader; Dhelim, Sahraoui; Ning, Huansheng. **"A novel framework for mobile-edge computing by optimizing task offloading." IEEE Internet of Things Journal 8(16): 13065-13076 (2021). IEEE. | Impact Factor: 10.6**
+2. Naouri, Abdenacer, Nabil Abdelkader Nouri, Amar Khelloufi, Abdelkarim Ben Sada, Huansheng Ning, and Sahraoui Dhelim. **"Efficient fog node placement using nature-inspired metaheuristic for IoT applications." Cluster Computing (2024): 1-17. |  Impact Factor: 7.5**
+3. Naouri, Abdenacer; Nouri, Nabil Abdelkader; Khelloufi, Amar; Sada, Abdelkarim Ben; Naouri, Salim; Ning, Huansheng; Dhelim, Sahraoui. **"BusCache: V2V-based infrastructure-free content dissemination system for Internet of Vehicles." IEEE Access (2024). IEEE. |  Impact Factor: 4.0****
+4. Naouri, Abdenacer; Nouri, Nabil Abdelkader; Qammar, Attia; Shi, Feifei; Ning, Huansheng; Dhelim, Sahraoui. **"Task Offloading for Smart Glasses in Healthcare: Enhancing Detection of Elevated Body Temperature." 2023 IEEE International Conference on Smart Internet of Things (SmartIoT).**
+5. Naouri, Abdenacer; Ning, Huansheng; Nouri, Nabil Abdelkader; Khelloufi, Amar; Sada, Abdelkarim Ben; Naouri, Salim; Qammar, Attia; Dhelim, Sahraoui. **"Maximizing UAV Fog Deployment Efficiency for Critical Rescue Operations." Future Generation Computer Systems:1-16 (2024).**
+
+- 
 
 1. Allan Victor, Mani Vetriventhan, Ramachandran Senthil, S. Geetha, Santosh Deshpande, Abhishek Rathore, Vinod Kumar, Prabhat Singh, Surender Reddymalla, and Vânia CR Azevedo. **"Genome-wide DArTSeq genotyping and phenotypic based assessment of within and among accessions diversity and effective sample size in the diverse sorghum, pearl millet, and pigeonpea landraces."**_Frontiers in Plant Science_ 11 (2020): 587426. (DOI: <a href="https://doi.org/10.3389/fpls.2020.587426" target="_blank">https://doi.org/10.3389/fpls.2020.587426</a>)
 2. Allan, V. (2023) **‘PB-Perfect: A Comprehensive R-Based Tool for Plant Breeding Data Analysis’**, PB - Perfect. Available at: <a href="https://allanbiotools.shinyapps.io/pbperfect/" target="_blank">https://allanbiotools.shinyapps.io/pbperfect/</a>.
