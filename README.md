@@ -1,11 +1,28 @@
 # Plant Breeder & Data analyst
 
 #### Summary: 
-Ph.D. in Plant Breeding and Genetics with 6 years of research experience in genetics, genomics, and data analysis of crop plants. Skilled in experimental design, statistical analysis, handling large genomic data and development and deployment of R/Shiny packages for plant breeding applications. Interested in a research or industry role involving genetics, plant breeding, bioinformatics, or Artificial Intelligence for plant breeding. 
-#### Publication Statistics:
-Cumulative Impact Factor: **34.171**
+Recent graduate with a PhD degree in Computer Science from the University of Science and Technology of Beijing, 
+bringing a blend of fieldwork expertise and data-analysis proficiency in IoT, cloud computing, fog computing, 
+edge computing, federated learning, Social Internet of Things, and more. My passion has recently evolved towards AI application, 
+where I aspire to contribute to the development of innovative modeling techniques for computing ecosystems.
 
-Total Citations: **39** <a href="https://scholar.google.com/citations?user=KnuQm0cAAAAJ&hl=en" target="_blank">Google Scholar</a>
+#### Publication Statistics:
+Cumulative Impact Factor: **60.5**
+
+I have contributed to several peer-reviewed publications in top-tier journals and conferences, focusing on areas such as fog computing, edge computing, IoT applications, federated learning, and service recommendation systems. Some of my notable publications include:
+
+- Naouri, Abdenacer; Wu, Hangxing; Nouri, Nabil Abdelkader; Dhelim, Sahraoui; Ning, Huansheng. "A novel framework for mobile-edge computing by optimizing task offloading." IEEE Internet of Things Journal 8(16): 13065-13076 (2021). IEEE.
+
+- **Naouri, Abdenacer;** Ning, Huansheng; Nouri, Nabil Abdelkader; Khelloufi, Amar; Sada, Abdelkarim Ben; Naouri, Salim; Qammar, Attia; Dhelim, Sahraoui. "Maximizing UAV Fog Deployment Efficiency for Critical Rescue Operations."**Future Generation Computer Systems (2024) -  Impact Factor: 10.6**.
+
+- **Naouri, Abdenacer;** Ning, Huansheng; Nouri, Nabil Abdelkader; Khelloufi, Amar; Sada, Abdelkarim Ben; Naouri, Salim; Qammar, Attia; Dhelim, Sahraoui. "Maximizing UAV Fog Deployment Efficiency for Critical Rescue Operations." **Future Generation Computer Systems:1-16 (2024). Impact Factor: 7.5**.
+- **Naouri, Abdenacer;** Nouri, Nabil Abdelkader; Khelloufi, Amar; Sada, Abdelkarim Ben; Ning, Huansheng; Dhelim, Sahraoui. "Efficient fog node placement using nature-inspired metaheuristic for IoT applications." **Cluster Computing 1-17 (2024). Springer US New York. Impact Factor: 4.4**.
+
+- **Naouri, Abdenacer;** Nouri, Nabil Abdelkader; Khelloufi, Amar; Sada, Abdelkarim Ben; Naouri, Salim; Ning, Huansheng; Dhelim, Sahraoui. "BusCache: V2V-based infrastructure-free content dissemination system for the Internet of Vehicles." **IEEE Access (2024). IEEE. Impact Factor: 4.0**.
+
+- **Naouri, Abdenacer;** Nouri, Nabil Abdelkader; Qammar, Attia; Shi, Feifei; Ning, Huansheng; Dhelim, Sahraoui. "Task Offloading for Smart Glasses in Healthcare: Enhancing Detection of Elevated Body Temperature." **2023 IEEE International Conference on Smart Internet of Things (SmartIoT).**
+
+Total Citations: **206** <a href="https://scholar.google.com/citations?user=KnuQm0cAAAAJ&hl=en" target="_blank">Google Scholar</a>
 
 #### Technical Skills:
 
