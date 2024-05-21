@@ -12,9 +12,8 @@ Total Citations: **206** <a href="https://scholar.google.com/citations?user=19Te
 
 #### Technical Skills:
 
-<!---- Programming Languages: _Proficient in R, Python, Linux command line; experience with Shiny, Google Colab._
+<!----Programming Languages: _Proficient in R, Python, Linux command line; experience with Shiny, Google Colab._
 - Phenomics and Genomics: _Expertise in molecular breeding techniques, NGS data analysis, QTL/GWAS, genomic selection, designing field trials, managing phenotyping pipelines, and analyzing high-throughput phenotypic and genotypic data._--> 
-- Data Science: _Multivariate analysis, machine learning, large scale genomic data analysis and visualization._
 - **Help Desk and Tech Support:** _Hardware Assembly, Maintenance, Peripherals, Printers, Drivers_
 - **Networks Configuration:** _Servers, Routers, TCP/IP Sockets, LAN Technology, Fiber Optics Fundamentals_
 - **Operating Systems:** _Windows servers, MS-DOS, XP, 7, 8, 10_
@@ -78,12 +77,12 @@ Total Citations: **206** <a href="https://scholar.google.com/citations?user=19Te
 - Experience with analysis of **next-generation sequencing** data including quality control, read mapping, variant calling, expression quantification, metagenomic profiling, and associated statistical analysis using standard workflows in R and Python.
 - **Advanced visualization** for multi-dimensional biological data through Circos, ggtree, ggtreeextra, Cytoscape and other platforms.
 
-**Additional Skills:**
+<!----**Additional Skills:**
   
 - Git/GitHub for version control and collaborative coding.
 - High performance computing on clusters for scalable data analysis.
 - Bioconductor for analyzing genomic/transcriptomic experiments.
-- Workflow automation to enhance reproducibility and to faster workflow. 
+- Workflow automation to enhance reproducibility and to faster workflow.--> 
 
 <!---## 🌱 R Packages developed
 ### ✅ PBGeno
