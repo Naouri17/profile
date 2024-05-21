@@ -39,23 +39,21 @@ Total Citations: **206** <a href="https://scholar.google.com/citations?user=19Te
 - Single plant genotyping of accessions using **<a href="https://www.diversityarrays.com/" target="_blank">DArTSeq</a> based SNPs**.
 - Harnessed whole genome genotyping, simulations, and predictive modeling to provide integrated insights into the dynamics of genetic variation across a species' range, by quantifying genomic diversity within and between isolated subpopulations, and developed optimized statistical frameworks to guide sustainable sampling regimes that limit genetic drift. -->
 
-💼 Work Experience
+##💼 Work Experience
 
-Network and Software Engineer (2014 - 2021)
+**Network and Software Engineer (2014 - 2021)**
+- 7 years of experience as a network and software engineer, responsible for network maintenance and management, as well as database and software configuration.
+- Proficient in designing, implementing, and troubleshooting network infrastructure to ensure optimal performance and reliability.
+- Managed and configured various database systems, ensuring data integrity, security, and efficient access.
+- Developed and deployed software solutions to meet organizational needs, demonstrating expertise in multiple programming languages and development frameworks.
+- Received commendations for problem-solving skills, professionalism, and the ability to deliver robust and scalable solutions.
 
-    7 years of experience as a network and software engineer, responsible for network maintenance and management, as well as database and software configuration.
-    Proficient in designing, implementing, and troubleshooting network infrastructure to ensure optimal performance and reliability.
-    Managed and configured various database systems, ensuring data integrity, security, and efficient access.
-    Developed and deployed software solutions to meet organizational needs, demonstrating expertise in multiple programming languages and development frameworks.
-    Received commendations for problem-solving skills, professionalism, and the ability to deliver robust and scalable solutions.
-
-IT Instructor @ [Institute Name] (2022 - 2023)
-
-    Worked as an IT instructor for 1 year, teaching and mentoring students in various IT subjects, including network administration, database management, and software development.
-    Developed and delivered curriculum content for courses, ensuring comprehensive coverage of theoretical and practical aspects.
-    Guided students in hands-on projects, including mobile application development, fostering practical skills and innovative thinking.
-    Provided individual support to students, helping them overcome technical challenges and achieve their learning objectives.
-    Received positive feedback from students and colleagues for effective teaching methods and the ability to simplify complex concepts.
+**IT Instructor @ [Algeria] (2014 - 2015)**
+- Worked as an IT instructor for 1 year, teaching and mentoring students in various IT subjects, including network administration, database management, and software development.
+- Developed and delivered curriculum content for courses, ensuring comprehensive coverage of theoretical and practical aspects.
+- Guided students in hands-on projects, including mobile application development, fostering practical skills and innovative thinking.
+- Provided individual support to students, helping them overcome technical challenges and achieve their learning objectives.
+- Received positive feedback from students and colleagues for effective teaching methods and the ability to simplify complex concepts.
     
 ## 💼 Work experience 
 **Data Science Consultant @ <a href="https://www.fiverr.com/allanvictor_?public_mode=true" target="_blank">Fiverr</a> (_Decembe 2020 - Present_)**
