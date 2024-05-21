@@ -1,4 +1,4 @@
-![image](https://github.com/Naouri17/profile/assets/40064898/bf74912c-56d5-40c4-932f-6980f371bd20)# Researcher & Mobile Developer
+# Researcher & Mobile Developer
 
 #### Summary: 
 Recent graduate with a PhD degree in Computer Science from the University of Science and Technology of Beijing, 
@@ -111,11 +111,8 @@ PBHaploMineR is still under development and testing. ETA for first stable versio
 
 ## 🎤 Workshop and Conferences
 
-
-
-![image](https://github.com/Naouri17/profile/assets/40064898/5ce0817c-1ae9-44b3-98ca-31ad0cec051e)
-
-
+- Attended the 2019 International Cyberspace Conference  "<a href="http://www.cybermatics.org/CyberCon/CyberDI2019/contact.html" target="_blank"> as Conference chair.  </a>" at <a href="https://en.ustb.edu.cn/">Beijing</a>, China
+- 
 - Attended IEEE International Intelligent Internet of Things Conference 2023 on <a href="https://www.ieee-smartiot.org/" target="_blank"> Internet of Things (IoT)"</a> at Xining, China.
   
 - Presented paper titled "**Task Offloading for Smart Glasses in Healthcare: Enhancing Detection of Elevated Body Temperature**" at 1<sup>th</sup> SmartIoT 2024 conference, Xining, China.
