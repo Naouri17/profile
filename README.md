@@ -112,12 +112,10 @@ PBHaploMineR is still under development and testing. ETA for first stable versio
 ## 🎤 Workshop and Conferences
 
 - Attended IEEE International Intelligent Internet of Things Conference 2023 on <a href="https://www.ieee-smartiot.org/" target="_blank"> Internet of Things (IoT)"</a> at Xining, China.
-  
 - Presented paper titled "**Task Offloading for Smart Glasses in Healthcare: Enhancing Detection of Elevated Body Temperature**" at 1<sup>th</sup> SmartIoT 2024 conference, Xining, China.
-
 - Presented paper titled "**The granger causality analysis between acupoints in the same meridian based on skin conductance**" at 1<sup>th</sup> SmartIoT 2024 conference , Xining, China.
-  
 - I attended and participated in the AngelHack Beijing Hackathon 2019. AngelHack welcomes all start-ups, developers, entrepreneurs, and designers to their annual event. The main goal of the hackathon is to create opportunities for innovation.
+- Attended the 2019 International Cyberspace Conference  "<a href="http://www.cybermatics.org/CyberCon/CyberDI2019/contact.html" target="_blank"> as Conference chair. </a>" at <a href="https://en.ustb.edu.cn/">Beijing</a>, China
 
 ## ✍️ Articles & Blogs
 - <a href="https://medium.com/@victorallan" target="_blank">Medium Articles</a>
