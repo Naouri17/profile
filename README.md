@@ -1,86 +1,157 @@
-# Dr. Abdenacer Naouri                    
-## About Me
+# Plant Breeder & Data analyst
 
-Recent graduate with a PhD degree in Computer Science from the University of Science and Technology of Beijing, 
-bringing a blend of fieldwork expertise and data-analysis proficiency in IoT, cloud computing, fog computing, 
-edge computing, federated learning, Social Internet of Things, and more. My passion has recently evolved towards AI application, 
-where I aspire to contribute to the development of innovative modeling techniques for computing ecosystems.
+#### Summary: 
+Ph.D. in Plant Breeding and Genetics with 6 years of research experience in genetics, genomics, and data analysis of crop plants. Skilled in experimental design, statistical analysis, handling large genomic data and development and deployment of R/Shiny packages for plant breeding applications. Interested in a research or industry role involving genetics, plant breeding, bioinformatics, or Artificial Intelligence for plant breeding. 
+#### Publication Statistics:
+Cumulative Impact Factor: **34.171**
 
-## Research and Publications
+Total Citations: **39** <a href="https://scholar.google.com/citations?user=KnuQm0cAAAAJ&hl=en" target="_blank">Google Scholar</a>
 
-I have contributed to several peer-reviewed publications in top-tier journals and conferences, focusing on areas such as fog computing, edge computing, IoT applications, federated learning, and service recommendation systems. Some of my notable publications include:
+#### Technical Skills:
 
-- Naouri, Abdenacer; Wu, Hangxing; Nouri, Nabil Abdelkader; Dhelim, Sahraoui; Ning, Huansheng. "A novel framework for mobile-edge computing by optimizing task offloading." IEEE Internet of Things Journal 8(16): 13065-13076 (2021). IEEE.
+- Programming Languages: _Proficient in R, Python, Linux command line; experience with Shiny, Google Colab._
+- Phenomics and Genomics: _Expertise in molecular breeding techniques, NGS data analysis, QTL/GWAS, genomic selection, designing field trials, managing phenotyping pipelines, and analyzing high-throughput phenotypic and genotypic data._
+- Data Science: _Multivariate analysis, machine learning, large scale genomic data analysis and visualization._
+  
+## 🎓 Education
+- **Ph.D.**, Genetics and Plant Breeding | <a href="https://tnau.ac.in/" target="_blank">TamilNadu Agricultural University</a> (_FEB 2021 - Thesis submitted on 31st OCT 2023_)		  		
+- **M.Sc.**, Genetics and Plant Breeding	| <a href="https://tnau.ac.in/" target="_blank">TamilNadu Agricultural University</a> (_AUG 2017 - DEC 2020_)	 			        		
+- **B.Sc.**, Agriculture | <a href="https://cattheni.edu.in/" target="_blank">College of Agricultural Technology</a> (_JUL 2013 - JUL 2017_)
 
-- Naouri, Abdenacer; Ning, Huansheng; Nouri, Nabil Abdelkader; Khelloufi, Amar; Sada, Abdelkarim Ben; Naouri, Salim; Qammar, Attia; Dhelim, Sahraoui. "Maximizing UAV Fog Deployment Efficiency for Critical Rescue Operations." Future Generation Computer Systems (2024).
+## 🔬 Research Experience
+**Ph.D. research @<a href="https://tnau.ac.in/" target="_blank">TNAU</a> (_2021 - 2023_)**
+- Developed and applied advanced tissue culture techniques like embryo culture to rapidly generate **somaclonal variants of rice** with improved salinity stress tolerance.
+- Identified and validated novel genomic regions **(QTLs)** governing salinity tolerance through **molecular mapping** in rice F<sub>2</sub> populations along with thorough phenotypic and biochemical characterization.
+- Employed **multi-omics approaches** including GC-MS metabolomics to uncover key genes and metabolites linked to superior osmotic/ionic adjustment under salt stress.
 
-- Naouri, Abdenacer; Nouri, Nabil Abdelkader; Khelloufi, Amar; Sada, Abdelkarim Ben; Ning, Huansheng; Dhelim, Sahraoui. "Efficient fog node placement using nature-inspired metaheuristic for IoT applications." Cluster Computing 1-17 (2024). Springer US New York.
+**Research scholar @ <a href="https://www.icrisat.org/" target="_blank">ICRISAT</a> (_2018 - 2020_)**
+- Single plant phenotying of diverse germplasm accessions (Sorghum, Peral millet, Pigeon pea – genotyped 1,980 plants/samples combined) to examine intra and inter accession genetic diversity. 
+- Single plant genotyping of accessions using **<a href="https://www.diversityarrays.com/" target="_blank">DArTSeq</a> based SNPs**.
+- Harnessed whole genome genotyping, simulations, and predictive modeling to provide integrated insights into the dynamics of genetic variation across a species' range, by quantifying genomic diversity within and between isolated subpopulations, and developed optimized statistical frameworks to guide sustainable sampling regimes that limit genetic drift.
 
-- Naouri, Abdenacer; Nouri, Nabil Abdelkader; Khelloufi, Amar; Sada, Abdelkarim Ben; Naouri, Salim; Ning, Huansheng; Dhelim, Sahraoui. "BusCache: V2V-based infrastructure-free content dissemination system for the Internet of Vehicles." IEEE Access (2024). IEEE.
+## 💼 Work experience 
+**Data Science Consultant @ <a href="https://www.fiverr.com/allanvictor_?public_mode=true" target="_blank">Fiverr</a> (_Decembe 2020 - Present_)**
+- 5⭐ rated freelancer with over 200 hours of data analysis and visualization projects completed in R with over six years of experience specializing in genomic data analysis and bioinformatics.
+- Proficient in handling big data and performing complex modelling using popular R libraries and packages such as tidyr, data.table, dplyr, plyr, tenserflow, ggplot, ggdendro, ggtree, ggheatmap, and circos. 
+- Received positive feedback from clients for knowledge, professionalism, and mastery of R programming. Demonstrated ability to deliver high-quality work as evidenced by the portfolio available on the <a href="https://www.fiverr.com/allanvictor_?public_mode=true" target="_blank">Profile</a>. 
 
-- Naouri, Abdenacer; Nouri, Nabil Abdelkader; Qammar, Attia; Shi, Feifei; Ning, Huansheng; Dhelim, Sahraoui. "Task Offloading for Smart Glasses in Healthcare: Enhancing Detection of Elevated Body Temperature." 2023 IEEE International Conference on Smart Internet of Things (SmartIoT).
+## 💻 Programming and data analysis skills
+- Proficient in full stack development of **R packages** using modular coding practices.
+- Created **production-grade Shiny web applications** for interactive data analysis and visualization and; expertise in dependency management tools like Golem for scalable deployment.
+- **Machine learning model** building for image classification/segmentation tasks; trained CNNs and other deep learning architectures in R, Python (PyCharm).
+- **Multivariate data analysis** of large-scale omics datasets including genomics, phenomics and metabolomics using cutting-edge bioinformatics tools.
+- Experience with analysis of **next-generation sequencing** data including quality control, read mapping, variant calling, expression quantification, metagenomic profiling, and associated statistical analysis using standard workflows in R and Python.
+- **Advanced visualization** for multi-dimensional biological data through Circos, ggtree, ggtreeextra, Cytoscape and other platforms.
 
-- Qammar, Attia; Naouri, Abdenacer; Ding, Jianguo; Ning, Huansheng. "Blockchain-based optimized edge node selection and privacy preserved framework for federated learning." Cluster Computing 1-16 (2023). Springer.
+**Additional Skills:**
+  
+- Git/GitHub for version control and collaborative coding.
+- High performance computing on clusters for scalable data analysis.
+- Bioconductor for analyzing genomic/transcriptomic experiments.
+- Workflow automation to enhance reproducibility and to faster workflow. 
 
-- Ben Sada, Abdelkarim; Naouri, Abdenacer; Khelloufi, Amar; Dhelim, Sahraoui; Ning, Huansheng. "A context-aware edge computing framework for smart internet of things." Future Internet 15(5): 154 (2023). MDPI.
+## 🌱 R Packages developed
+### ✅ PBGeno
+<a href="https://github.com/Allan-gitrepos/pbgeno" target="_blank">GitHub</a>
 
-- Nouri, Nabil Abdelkader; Aliouat, Zibouda; Naouri, Abdenacer; Hassak, Soufiene ali. "An efficient mesh router nodes placement in wireless mesh networks based on moth‐flame optimization algorithm." International Journal of Communication Systems 36(8): e5468 (2023). Wiley Online Library.
+Developed pbgeno, an R package to streamline data analysis workflows for plant breeders. The package provides functions for calculating genetic distances, clustering genotypes, estimating diversity statistics, creating publication-quality visualizations, and automating routine tasks. Key features include calculating genetic distance matrices, structure-based clustering, polymorphism quantification, and converting proprietary marker genotypes into standardized formats for genome-wide association mapping. 
 
-- Khelloufi, Amar; Ning, Huansheng; Naouri, Abdenacer; Sada, Abdelkarim Ben; Qammar, Attia; Khalil, Abdelkader; Mao, Lingfeng; Dhelim, Sahraoui. "A Multimodal Latent-Features-Based Service Recommendation System for the Social Internet of Things." IEEE Transactions on Computational Social Systems (2024). IEEE.
+### ✅ PBPerfect
+**PBPerfect** <a href="https://allanbiotools.shinyapps.io/pbperfect/" target="_blank">(Visit Page)</a> is a interactive web tool enabling reproducible multivariate analysis with visualization of phenotypic and genotypic data. It features basic statistics, experimental designs, SSR workflows, multivariate analysis, mating designs, and dynamic graphics with outputs exported as publication-standard tables and graphics requiring no further formatting.
 
-- Nouri, Nabil Abdelkader; Naouri, Abdenacer; Dhelim, Sahraoui. "Accurate range-based distributed localization of wireless sensor nodes using grey wolf optimizer." The Journal of Engineering and Exact Sciences 9(4): 15920-01e (2023).
+ Here is a draft GitHub readme section for your PBlinkagemap package:
 
-- Nouri, Nabil Abdelkader; Aliouat, Zibouda; Naouri, Abdenacer; Hassak, Soufiene Ali. "Accelerated PSO algorithm applied to clients coverage and routers connectivity in wireless mesh networks." Journal of Ambient Intelligence and Humanized Computing 14(1): 207-221 (2023). Springer.
+### ✅ PBlinkagemap
 
-- Shi, Feifei; Li, Nannan; Wu, Xiaodong; Naouri, Abdenacer; Ning, Huansheng. "The granger causality analysis between acupoints in the same meridian based on skin conductance." 2023 IEEE International Conference on Smart Internet of Things (SmartIoT): 203-210 (2023). IEEE.
+**PBlinkagemap** <a href="https://allanbiotools1.shinyapps.io/PBLinkagemap/" target="_blank">(Visit Page)</a> enables easy creation of linkage maps and identification of associated quantitative trait loci (QTLs) from genomic and phenotypic datasets. 
 
-- Qammar, Attia; Naouri, Abdenacer; Ding, Jianguo; Ning, Huansheng. "Blockchain-based Optimized Client Selection and Privacy Preserved Framework for Federated Learning." arXiv preprint arXiv:2308.04442 (2023).
+It allows users to:
+- Import chromosome, marker, map distance and trait score data
+- Interactively explore results on linkage maps
+- Visualize QTL locations and effects
+By handling computationally intensive linkage analysis and mapping behind the scenes, PBlinkagemap makes it simple for users to go from datasets to QTL discovery through an intuitive interface.
 
-- Khelloufi, Amar; Ning, Huansheng; Sada, Abdelkarim Ben; Naouri, Abdenacer; Dhelim, Sahraoui. "Context-Aware Service Recommendation System for the Social Internet of Things." arXiv preprint arXiv:2308.08499 (2023).
+### ✅ PB-GWAS 🧬
 
-- Qammar, Attia; Wang, Hongmei; Ding, Jianguo; Naouri, Abdenacer; Daneshmand, Mahmoud; Ning, Huansheng. "Chatbots to chatgpt in a cybersecurity space: Evolution, vulnerabilities, attacks, challenges, and future recommendations." arXiv preprint arXiv:2306.09255 (2023).
+**PB-GWAS** <a href="https://allanbiotools1.shinyapps.io/PBgwas/" target="_blank">(Visit Page)</a> makes powerful genome-wide association studies accessible through an easy-to-use web app 👩‍💻
 
-- Sada, Abdelkarim Ben; Khelloufi, Amar; Naouri, Abdenacer; Ning, Huansheng; Dhelim, Sahraoui. "Selective Task offloading for Maximum Inference Accuracy and Energy efficient Real-Time IoT Sensing Systems." arXiv preprint arXiv:2402.16904 (2024).
+Key features:
+📥 File upload in 4 clicks  
+🏃‍♂️ One-click GWAS launch  
+⚙️ Adjust parameters via sidebar   
+📈 Interactive result plotting  
+📄 Full PDF report downloading
+
+By eliminating coding barriers, PB-GWAS allows both new and advanced users to leverage GAPIT workflows with no programming expertise required!. Whether you want to map simple or complex traits, PB-GWAS provides the automated analysis to accelerate discoveries 🔬
+
+ Here is a draft GitHub readme for the PBHaploMineR package:
+
+### ✅ PBHaploMineR 🧬
+
+**PBHaploMineR** <a href="https://github.com/Allan-gitrepos/PBhaplominerR" target="_blank">(Visit Page)</a> provides a toolkit to streamline pangenome haplotype mining and comparison from next-generation sequencing data. This R package aims to make large-scale haplotype analysis efficient and accessible for species with reference pangenomes.
+
+**Key Features:**
+* **Sequence Import** - Functions to import raw reads from multiple platforms and store in standardized schema
+* **Haplotype Calling** - Optimized algorithms for pangenome-wide haplotype calling, incorporating structural variation
+* **HapViz** - Interactive visualization system to explore and compare haplotypes in context of pangenome structure
+* **HapCompare** - Statistically compare haplotypes between groups of samples/accessions and identify associated genomic signatures
+* **Parallelization** - Built-in parallelization to scale analyses across HPC infrastructure
+
+PBHaploMineR is still under development and testing. ETA for first stable version is Q1 2024.
+
+## 🎤 Workshop and Conferences
+- Attended the workshop on "<a href="https://twitter.com/GenebankICRISAT/status/1169137453472669696" target="_blank">A15 DArTSeq Data Analysis</a>" at <a href="https://www.cimmyt.org/" target="_blank">CIMMYT</a>, Mexico
+- Attended the international conference on <a href="https://twitter.com/GenebankICRISAT/status/1158297753371308032" target="_blank">"Neglected and Underutilized Crop Species for Food, Nutrition, Energy and Environment"</a> at NIPGR, New Delhi. Awarded a travel grant in recognition of contribution. 
+- Attended the workshop on **<a href="https://www.facebook.com/media/set/?vanity=natesan.senthil&set=a.5804435956243670" target="_blank">HPLC: "Principles and Applications in Plant Metabolomics"</a>**" at TNAU,Coimbaotore.
+- Attended the workshop on **<a href="https://www.covaichronicle.com/english/contentview/natu?fbclid=IwAR0fA8w7ubx__cGaKnmE-68-tmRLg92XHs1Rf-HnhQzRjmFc_calVar8yFo" target="_blank">Molecular Modelling and Docking</a>** at TNAU, Coimbatore.
+- Presented poster titled "**Genes for salt tolerance revealed by functional metagenomics in rice**" at 6<sup>th</sup> National conference AC&RI, TNAU, Trichy.
+
+## ✍️ Articles & Blogs
+- <a href="https://medium.com/@victorallan" target="_blank">Medium Articles</a>
+
+## 📜 Publications
+
+1. Allan Victor, Mani Vetriventhan, Ramachandran Senthil, S. Geetha, Santosh Deshpande, Abhishek Rathore, Vinod Kumar, Prabhat Singh, Surender Reddymalla, and Vânia CR Azevedo. **"Genome-wide DArTSeq genotyping and phenotypic based assessment of within and among accessions diversity and effective sample size in the diverse sorghum, pearl millet, and pigeonpea landraces."**_Frontiers in Plant Science_ 11 (2020): 587426. (DOI: <a href="https://doi.org/10.3389/fpls.2020.587426" target="_blank">https://doi.org/10.3389/fpls.2020.587426</a>)
+2. Allan, V. (2023) **‘PB-Perfect: A Comprehensive R-Based Tool for Plant Breeding Data Analysis’**, PB - Perfect. Available at: <a href="https://allanbiotools.shinyapps.io/pbperfect/" target="_blank">https://allanbiotools.shinyapps.io/pbperfect/</a>.
+3. Backiyalakshmi, C., Mani Vetriventhan, Santosh Deshpande, C. Babu, Allan Victor, D. Naresh, Rajeev Gupta, and Vania CR Azevedo. **"Genome-wide assessment of population structure and genetic diversity of the global finger millet germplasm panel conserved at the ICRISAT Genebank."** _Frontiers in Plant Science_ 12 (2021): 692463. (DOI: <a href="https://doi.org/10.3389/fpls.2021.692463" target="_blank">https://doi.org/10.3389/fpls.2021.692463</a>)
+4. Vetriventhan, Mani, Hari D. Upadhyaya, Vania CR Azevedo, Allan Victor, and Seetha Anitha. **"Variability and trait‐specific accessions for grain yield and nutritional traits in germplasm of little millet (_Panicum sumatrense_ Roth. Ex. Roem. & Schult.)."** _Crop Science_ 61, no. 4 (2021): 2658-2679. (DOI: <a href="https://doi.org/10.1002/csc2.20527" target="_blank">https://doi.org/10.1002/csc2.20527</a>)
+5. Jagadesh, M., Duraisamy Selvi, Subramanium Thiyageshwari, Thangavel Kalaiselvi, Allan Victor, Munmun Dash, Keisar Lourdusamy, Ramalingam Kumaraperumal, Pushpanathan Raja, and U. Surendran. **"Exploration of microbial signature and carbon footprints of the Nilgiri Hill Region in the Western Ghats global biodiversity hotspot of India."** _Applied Soil Ecology_ (2023): 105176 (DOI: <a href="https://doi.org/10.1016/j.apsoil.2023.105176" target="_blank">https://doi.org/10.1016/j.apsoil.2023.105176</a>).
+6. Jagadesh, M., Cherukumalli Srinivasarao, Duraisamy Selvi, Subramanium Thiyageshwari, Thangavel Kalaiselvi, Aradhna Kumari, Santhosh Kumar Singh, Allan Victor **"Quantifying the Unvoiced Carbon Pools of the Nilgiri Hill Region in the Western Ghats Global Biodiversity Hotspot—First Report."** _Sustainability_ 15, no. 6 (2023): 5520. (DOI: <a href="https://doi.org/10.3390/su15065520" target="_blank">https://doi.org/10.3390/su15065520</a>)
+7. Jagadesh, M., Duraisamy Selvi, Subramanium Thiyageshwari, Cherukumalli Srinivasarao, Thangavel Kalaiselvi, Keisar Lourdusamy, Ramalingam Kumaraperumal, and Victor Allan. **"Soil Carbon Dynamics Under Different Ecosystems of Ooty Region in the Western Ghats Biodiversity Hotspot of India."** _Journal of Soil Science and Plant Nutrition_ 23, no. 1 (2023): 1374-1385. (DOI: <a href="https://doi.org/10.1007/s42729-023-01129-2" target="_blank">https://doi.org/10.1007/s42729-023-01129-2</a>)
+8. Allan Victor., N. Meenakshi Ganesan, R. Saraswathi, R. Gnanam, and C. N. Chandrasekhar. **"Exploring the phenotypic diversity of rice: A multivariate analysis of local landraces and elite cultivars of Tamil Nadu and Exotic Lines."** _Electronic Journal of Plant Breeding_ 14, no. 3 (2023): 857-866. (DOI: <a href="https://ejplantbreeding.org/index.php/EJPB/article/view/4804" target="_blank">10.37992/2023.1403.099</a>)
+9. Allan Victor, S. Geetha, Mani Vetriventhan, and Vânia CR Azevedo. **"Genetic diversity analysis of geographically diverse landraces and wild accessions in sorghum."** _Electronic Journal of Plant Breeding_ 11, no. 03 (2020): 760-764. (DOI: <a href="https://www.ejplantbreeding.org/index.php/EJPB/article/view/3575" target="_blank">https://doi.org/10.37992/2020.1103.125</a>)
+    
+
+## 📚 References
+
+|     |     |
+|:----|:----|
+| **Name:** | **Dr. Vania de Azevedo** |
+| **Position:** | Former Head, Plant Genetic Resources |
+| **Organization:** | ICRISAT, Hyderabad, India |
+| **E-mail:** | <a href="mailto:azevedovcr@gmail.com">azevedovcr@gmail.com</a> |
+| **LinkedIn:** | <a href="https://www.linkedin.com/in/v%C3%A2nia-c-renn%C3%B3-azevedo-21493449/" target="_blank">Visit Page</a> |
+
+|     |     |
+|:----|:----|
+| **Name:** | **Dr. Mani Vetriventhan** |
+| **Position:** | Senior Scientist, Plant Genetic Resources |
+| **Organization:** | ICRISAT, Hyderabad, India |
+| **E-mail:** | <a href="mailto:M.Vetriventhan@cgiar.org">M.Vetriventhan@cgiar.org</a> |
+| **LinkedIn:** | <a href="https://www.linkedin.com/in/vetriventhan-mani-26468322/" target="_blank">Visit Page</a> |
+
+|     |     |
+|:----|:----|
+| **Name:** | **Mr. Rajaguru Bohar** |
+| **Position:** | Regional Genotyping Coordinator (South Asia) / Senior Scientist (Project management) |
+| **Organization:** | CIMMYT |
+| **E-mail:** | <a href="mailto:wishmeguru@gmail.com">wishmeguru@gmail.com</a> |
+| **LinkedIn:** | <a href="https://www.linkedin.com/in/rajaguru-bohar-5038762a/" target="_blank">Visit Page</a> |
+|     |     |
 
 
+## 📞 Contact
 
-
-## Projects
-
-In my projects, I focus on developing innovative solutions that leverage IoT, artificial intelligence, and computing offloading. I created a facial recognition application that utilizes nearby idle devices for efficient task allocation, optimizing latency and communication costs. I also deploy fog nodes in high-traffic urban areas to enhance public safety and use UAV fog nodes in disaster-stricken areas to support evacuation and improve emergency communication infrastructure. Through these projects, I address critical challenges and advance the application of cutting-edge technologies for real-world problem-solving.
-
-## Skills
-
-My skill set includes expertise in:
-- Problem-Solving and Analytical Thinking: I identify research problems and develop innovative solutions in areas such as IoT, AI, and computing offloading.
-- Data Collection and Analysis: I use a variety of tools to process and interpret data effectively, helping me draw meaningful conclusions.
-- Project Management: I plan and execute research projects efficiently, managing resources, timelines, and collaborations with interdisciplinary teams.
-- Literature Review and Synthesis: I review existing research and synthesize information from multiple sources to inform my work and identify gaps in knowledge.
-- Experiment Design and Evaluation: I design robust experiments to test hypotheses and evaluate performance metrics for reliable results.
-- Publication and Presentation: I communicate my findings through well-prepared research papers, reports, and presentations for academic and industry audiences.
-- Collaboration and Networking: I work closely with other researchers, industry professionals, and institutions to foster knowledge exchange and drive innovation.
-
-## Education
-
-- Ph.D. in Computer Science, University of Science and Technology Beijing.
-- Master's in Computer Science, University of Amar Telidji of Laghouat.
-- Bachelor's in Computer Science, University of Ziane Achour Djelfa.
-
-## Languages
-
-- Arabic (Native)
-- English (Fluent)
-- French (B2)
-- Chinese (HSK3)
-
-## Hobbies
-
-In my free time, I enjoy reading books, playing football, swimming, blogging, and exploring new places.
-
-## Contact Me
-
-Feel free to reach out to me via email at nacer.naouri@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/abdenacer-naouri-71ab1065/).
-
----
-
-Feel free to customize this template further to suit your preferences and the specific content you want to highlight on your GitHub profile!
+| **Name**   | Allan. V | 
+| **E-mail**   | <a href="mailto:albertoogy@gmail.com">albertoogy@gmail.com</a> | 
+| **LinkedIn**   | <a href="https://www.linkedin.com/in/allan-victor-6919b4152/" target="_blank">Visit Page</a> | 
