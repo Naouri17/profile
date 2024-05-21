@@ -123,11 +123,11 @@ PBHaploMineR is still under development and testing. ETA for first stable versio
 
 I have published and contributed to several  publications in top-tier journals and conferences, focusing on areas such as fog computing, edge computing, IoT applications, federated learning, and service recommendation systems. Some of my notable publications include:
 
-1. Naouri, Abdenacer; Wu, Hangxing; Nouri, Nabil Abdelkader; Dhelim, Sahraoui; Ning, Huansheng. **"A novel framework for mobile-edge computing by optimizing task offloading." IEEE Internet of Things Journal 8(16): 13065-13076 (2021). IEEE. | Impact Factor: 10.6**
-2. Naouri, Abdenacer, Nabil Abdelkader Nouri, Amar Khelloufi, Abdelkarim Ben Sada, Huansheng Ning, and Sahraoui Dhelim. **"Efficient fog node placement using nature-inspired metaheuristic for IoT applications." Cluster Computing (2024): 1-17. |  Impact Factor: 7.5**
-3. Naouri, Abdenacer; Nouri, Nabil Abdelkader; Khelloufi, Amar; Sada, Abdelkarim Ben; Naouri, Salim; Ning, Huansheng; Dhelim, Sahraoui. **"BusCache: V2V-based infrastructure-free content dissemination system for Internet of Vehicles." IEEE Access (2024). IEEE. |  Impact Factor: 4.0****
-4. Naouri, Abdenacer; Nouri, Nabil Abdelkader; Qammar, Attia; Shi, Feifei; Ning, Huansheng; Dhelim, Sahraoui. **"Task Offloading for Smart Glasses in Healthcare: Enhancing Detection of Elevated Body Temperature." 2023 IEEE International Conference on Smart Internet of Things (SmartIoT).**
-5. Naouri, Abdenacer; Ning, Huansheng; Nouri, Nabil Abdelkader; Khelloufi, Amar; Sada, Abdelkarim Ben; Naouri, Salim; Qammar, Attia; Dhelim, Sahraoui. **"Maximizing UAV Fog Deployment Efficiency for Critical Rescue Operations." Future Generation Computer Systems:1-16 (2024).**
+1. Naouri, Abdenacer; Wu, Hangxing; Nouri, Nabil Abdelkader; Dhelim, Sahraoui; Ning, Huansheng. **"A novel framework for mobile-edge computing by optimizing task offloading." IEEE Internet of Things Journal 8(16): 13065-13076 (2021). IEEE.** | **Impact Factor: 10.6**
+2. 4. Naouri, Abdenacer; Ning, Huansheng; Nouri, Nabil Abdelkader; Khelloufi, Amar; Sada, Abdelkarim Ben; Naouri, Salim; Qammar, Attia; Dhelim, Sahraoui. **"Maximizing UAV Fog Deployment Efficiency for Critical Rescue Operations." Future Generation Computer Systems:1-16 (2024).**   **Impact Factor: 7.5** 
+3. Naouri, Abdenacer, Nabil Abdelkader Nouri, Amar Khelloufi, Abdelkarim Ben Sada, Huansheng Ning, and Sahraoui Dhelim. **"Efficient fog node placement using nature-inspired metaheuristic for IoT applications." Cluster Computing (2024): 1-17.** |  **Impact Factor: 4.4**
+4. Naouri, Abdenacer; Nouri, Nabil Abdelkader; Khelloufi, Amar; Sada, Abdelkarim Ben; Naouri, Salim; Ning, Huansheng; Dhelim, Sahraoui. **"BusCache: V2V-based infrastructure-free content dissemination system for Internet of Vehicles." IEEE Access (2024). IEEE.** |  **Impact Factor: 4.0**
+
 
 - 
 
