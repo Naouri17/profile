@@ -183,8 +183,8 @@ Naouri, Abdenacer; Nouri, Nabil Abdelkader; Khelloufi, Amar; Sada, Abdelkarim Be
 | **Name:** | **Prof. Nabil Nouri** |
 | **Position:** | Professor, Intelligent systems, Machine learning, Metaheuristic |
 | **Organization:** | University of Djelfa, Algeria |
-| **E-mail:** | <a href="mailto:wishmeguru@gmail.com">wishmeguru@gmail.com</a> |
-| **LinkedIn:** | <a href="https://www.linkedin.com/in/rajaguru-bohar-5038762a/" target="_blank">Visit Page</a> |
+| **E-mail:** | <a href="mailto:wishmeguru@gmail.com">nabil.nouri@gmail.com</a> |
+| **LinkedIn:** | <a href="https://www.linkedin.com/" target="_blank">Visit Page</a> |
 |     |     |
 
 
@@ -192,4 +192,4 @@ Naouri, Abdenacer; Nouri, Nabil Abdelkader; Khelloufi, Amar; Sada, Abdelkarim Be
 
 | **Name**   | Abdenacer. N | 
 | **E-mail**   | <a href="mailto:albertoogy@gmail.com">nacer.naouri@gmail.com</a> | 
-| **LinkedIn**   | <a href="https://www.linkedin.com/in/allan-victor-6919b4152/" target="_blank">Visit Page</a> | 
+| **LinkedIn**   | <a href="https://www.linkedin.com/" target="_blank">Visit Page</a> | 
