@@ -131,7 +131,7 @@ PBHaploMineR is still under development and testing. ETA for first stable versio
 
 ## 📜 Publications
 
-I have published several  publications in top-tier journals , focusing on areas such as fog computing, edge computing, IoT applications, federated learning, and service recommendation systems. Some of my notable publications include:
+I have published several publications in top-tier journals , focusing on areas such as fog computing, edge computing, IoT applications, federated learning, and service recommendation systems. Some of my notable publications include:
 
 Naouri, Abdenacer; Wu, Hangxing; Nouri, Nabil Abdelkader; Dhelim, Sahraoui; Ning, Huansheng. **"A novel framework for mobile-edge computing by optimizing task offloading." IEEE Internet of Things Journal 8(16): 13065-13076 (2021). IEEE.** (DOI: <a href="https://doi.org/10.1109/JIOT.2021.3064225" target="_blank"> https://doi.org/10.1109/JIOT.2021.3064225</a>) | **Impact Factor: 10.6**
    
