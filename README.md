@@ -12,9 +12,23 @@ Total Citations: **206** <a href="https://scholar.google.com/citations?user=19Te
 
 #### Technical Skills:
 
-- Programming Languages: _Proficient in R, Python, Linux command line; experience with Shiny, Google Colab._
-- Phenomics and Genomics: _Expertise in molecular breeding techniques, NGS data analysis, QTL/GWAS, genomic selection, designing field trials, managing phenotyping pipelines, and analyzing high-throughput phenotypic and genotypic data._
+<!---- Programming Languages: _Proficient in R, Python, Linux command line; experience with Shiny, Google Colab._
+- Phenomics and Genomics: _Expertise in molecular breeding techniques, NGS data analysis, QTL/GWAS, genomic selection, designing field trials, managing phenotyping pipelines, and analyzing high-throughput phenotypic and genotypic data._--> 
 - Data Science: _Multivariate analysis, machine learning, large scale genomic data analysis and visualization._
+- **Help Desk and Tech Support:** _Hardware Assembly, Maintenance, Peripherals, Printers, Drivers_
+- **Networks Configuration:** _Servers, Routers, TCP/IP Sockets, LAN Technology, Fiber Optics Fundamentals_
+- **Operating Systems:** _Windows servers, MS-DOS, XP, 7, 8, 10_
+- **Leadership and Operations:** _Customer Service-Oriented, Exceptional Verbal and Written Communication Skills, Software Training and Implementation, Efficient Multi-tasker_
+- **Application Development, Database Systems, and Programming Languages:** _MySQL, Microsoft SQL, Oracle, Crystal Reports, C++/C#, Flutter, Dart, Firebase, XML, SQL, ASP.Net, HTML_
+- **Version Control:** _Good knowledge of Git_
+- **Technical Skills:** _Excellent Hand-Eye Coordination and Ability to Perform Small Repairs_
+- **Professional Skills:** _Professional Demeanor with Customers and Coworkers_
+- **Mobile Technology:** _Exceptional Knowledge of Cell Phone Operating Systems and Features_
+- **Work Style:** _Capable of Working Independently or with a Team, Exemplary Work Ethic_
+- **Availability:** _Available to Work a Variety of Hours, Including Nights and Weekends_
+- **Loyalty:** _Proven Loyalty to a Specific Position and Company_
+- **Video Editing:** _Video Editing_
+- **Social Media Management:** _Good Knowledge of Adobe Premiere Pro and Photoshop_
   
 ## 🎓 Education
 - **Ph.D.**, Optimizing Resource Allocation in Fog and Edge Computing Environments | <a href="https://tnau.ac.in/" target="_blank">University of Science and Technology Beijing. </a> (_SEP 2018 - Thesis submitted on 21st MAI 2024)		  		
