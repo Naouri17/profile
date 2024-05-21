@@ -70,7 +70,7 @@ Total Citations: **206** <a href="https://scholar.google.com/citations?user=19Te
 - High performance computing on clusters for scalable data analysis.
 - Bioconductor for analyzing genomic/transcriptomic experiments.
 - Workflow automation to enhance reproducibility and to faster workflow. 
-
+<! ---
 ## 🌱 R Packages developed
 ### ✅ PBGeno
 <a href="https://github.com/Allan-gitrepos/pbgeno" target="_blank">GitHub</a>
@@ -110,7 +110,7 @@ By eliminating coding barriers, PB-GWAS allows both new and advanced users to le
 ### ✅ PBHaploMineR 🧬
 
 **PBHaploMineR** <a href="https://github.com/Allan-gitrepos/PBhaplominerR" target="_blank">(Visit Page)</a> provides a toolkit to streamline pangenome haplotype mining and comparison from next-generation sequencing data. This R package aims to make large-scale haplotype analysis efficient and accessible for species with reference pangenomes.
-
+-->
 **Key Features:**
 * **Sequence Import** - Functions to import raw reads from multiple platforms and store in standardized schema
 * **Device Integration** - Seamless integration of various IoT devices and sensors into a unified network, supporting multiple protocols.
