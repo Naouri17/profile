@@ -35,13 +35,13 @@ Total Citations: **206** <a href="https://scholar.google.com/citations?user=19Te
 - **B.Sc.**, Agriculture | <a href="https://cattheni.edu.in/" target="_blank">College of Agricultural Technology</a> (_JUL 2013 - JUL 2017_)
 
 ## 🔬 Research Experience
-**Ph.D. research @<a href="https://en.ustb.edu.cn/" target="_blank">USTB</a> (_2018 - 2024_)**
+
+<!---**Ph.D. research @<a href="https://en.ustb.edu.cn/" target="_blank">USTB</a> (_2018 - 2024_)**
 - Developed and applied advanced tissue culture techniques like embryo culture to rapidly generate **somaclonal variants of rice** with improved salinity stress tolerance.
 - Identified and validated novel genomic regions **(QTLs)** governing salinity tolerance through **molecular mapping** in rice F<sub>2</sub> populations along with thorough phenotypic and biochemical characterization.
 - Employed **multi-omics approaches** including GC-MS metabolomics to uncover key genes and metabolites linked to superior osmotic/ionic adjustment under salt stress.
-
-**Research scholar @ <a href="https://www.icrisat.org/" target="_blank">ICRISAT</a> (_2018 - 2020_)**
-
+-->
+**Ph.D. research @<a href="https://en.ustb.edu.cn/" target="_blank">USTB</a> (_2018 - 2024_)**
 - Developed innovative solutions leveraging IoT, artificial intelligence, and computing offloading to tackle real-world challenges.
 - Created a facial recognition application utilizing nearby idle devices for efficient task allocation, optimizing latency and communication costs.
 - Deployed fog nodes in high-traffic urban areas to enhance public safety.
