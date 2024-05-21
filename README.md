@@ -143,8 +143,8 @@ By eliminating coding barriers, PB-GWAS allows both new and advanced users to le
   
 - Attended the 2019 International Cyberspace Conference  "<a href="http://www.cybermatics.org/CyberCon/CyberDI2019/contact.html" target="_blank"> as Conference chair. </a>" at <a href="https://en.ustb.edu.cn/">Beijing</a>, China
 
-## ✍️ Articles & Blogs
-- <a href="https://medium.com/@victorallan" target="_blank">Medium Articles</a>
+<!---## ✍️ Articles & Blogs
+- <a href="https://medium.com/@victorallan" target="_blank">Medium Articles</a>-->
 
 ## 📜 Publications
 
