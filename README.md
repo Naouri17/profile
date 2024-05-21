@@ -101,20 +101,29 @@ By eliminating coding barriers, PB-GWAS allows both new and advanced users to le
 **PBHaploMineR** <a href="https://github.com/Allan-gitrepos/PBhaplominerR" target="_blank">(Visit Page)</a> provides a toolkit to streamline pangenome haplotype mining and comparison from next-generation sequencing data. This R package aims to make large-scale haplotype analysis efficient and accessible for species with reference pangenomes.
 
 **Key Features:**
-* **Sequence Import** - Functions to import raw reads from multiple platforms and store in standardized schema
-* **Haplotype Calling** - Optimized algorithms for pangenome-wide haplotype calling, incorporating structural variation
-* **HapViz** - Interactive visualization system to explore and compare haplotypes in context of pangenome structure
-* **HapCompare** - Statistically compare haplotypes between groups of samples/accessions and identify associated genomic signatures
-* **Parallelization** - Built-in parallelization to scale analyses across HPC infrastructure
 
-PBHaploMineR is still under development and testing. ETA for first stable version is Q1 2024.
+    * **Device Integration** - Seamless integration of various IoT devices and sensors into a unified network, supporting multiple protocols.
+    * **Real-Time Data Processing** - Optimized algorithms for processing and analyzing data in real-time, ensuring timely insights and actions.
+    * **Edge Computing** - Deployment of edge computing nodes to perform local data processing, reducing latency and bandwidth usage.
+    * **Secure Communication** - Advanced encryption and authentication methods to ensure secure data transmission across IoT networks.
+    * **IoT Dashboard** - Interactive visualization system to monitor and manage IoT devices, displaying real-time data and performance metrics.
+    * **Anomaly Detection** - Machine learning algorithms to detect anomalies and irregularities in IoT data, enhancing system reliability.
+    * **Scalability** - Built-in scalability to support the addition of new devices and data sources without compromising performance.
+    * **Energy Efficiency** - Strategies and algorithms to optimize power consumption of IoT devices, extending their operational lifespan.
+    * **Remote Management** - Tools for remote configuration and management of IoT devices, enabling efficient maintenance and updates.
+    * **Data Analytics** - Comprehensive analytics platform to derive actionable insights from IoT data, supporting decision-making processes.
+  
 
 ## 🎤 Workshop and Conferences
 
 - Attended IEEE International Intelligent Internet of Things Conference 2023 on <a href="https://www.ieee-smartiot.org/" target="_blank"> Internet of Things (IoT)"</a> at Xining, China.
+  
 - Presented paper titled "**Task Offloading for Smart Glasses in Healthcare: Enhancing Detection of Elevated Body Temperature**" at 1<sup>th</sup> SmartIoT 2024 conference, Xining, China.
+  
 - Presented paper titled "**The granger causality analysis between acupoints in the same meridian based on skin conductance**" at 1<sup>th</sup> SmartIoT 2024 conference , Xining, China.
+  
 - I attended and participated in the AngelHack Beijing Hackathon 2019. AngelHack welcomes all start-ups, developers, entrepreneurs, and designers to their annual event. The main goal of the hackathon is to create opportunities for innovation.
+  
 - Attended the 2019 International Cyberspace Conference  "<a href="http://www.cybermatics.org/CyberCon/CyberDI2019/contact.html" target="_blank"> as Conference chair. </a>" at <a href="https://en.ustb.edu.cn/">Beijing</a>, China
 
 ## ✍️ Articles & Blogs
