@@ -30,9 +30,9 @@ Total Citations: **206** <a href="https://scholar.google.com/citations?user=19Te
 - Data Science: _Multivariate analysis, machine learning, large scale genomic data analysis and visualization._
   
 ## 🎓 Education
-- **Ph.D.**, Genetics and Plant Breeding | <a href="https://tnau.ac.in/" target="_blank">TamilNadu Agricultural University</a> (_FEB 2021 - Thesis submitted on 31st OCT 2023_)		  		
-- **M.Sc.**, Genetics and Plant Breeding	| <a href="https://tnau.ac.in/" target="_blank">TamilNadu Agricultural University</a> (_AUG 2017 - DEC 2020_)	 			        		
-- **B.Sc.**, Agriculture | <a href="https://cattheni.edu.in/" target="_blank">College of Agricultural Technology</a> (_JUL 2013 - JUL 2017_)
+- **Ph.D.**, Optimizing Resource Allocation in Fog and Edge Computing Environments | <a href="https://tnau.ac.in/" target="_blank">University of Science and Technology Beijing. </a> (_SEP 2018 - Thesis submitted on 21st MAI 2024)		  		
+- **M.Sc.**,  Network and Distributed Systems | <a href="https://tnau.ac.in/" target="_blank">University of Amar Telidji of Laghouat</a>  			        		
+- **B.Sc.**, Fundamental Computer Science | <a href="https://cattheni.edu.in/" target="_blank">University of Ziane Achour Djelfa</a>
 
 ## 🔬 Research Experience
 
