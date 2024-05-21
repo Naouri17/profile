@@ -71,7 +71,7 @@ Total Citations: **206** <a href="https://scholar.google.com/citations?user=19Te
 - Bioconductor for analyzing genomic/transcriptomic experiments.
 - Workflow automation to enhance reproducibility and to faster workflow. 
 
-<! ---## 🌱 R Packages developed
+<!---## 🌱 R Packages developed
 ### ✅ PBGeno
 <a href="https://github.com/Allan-gitrepos/pbgeno" target="_blank">GitHub</a>
 
