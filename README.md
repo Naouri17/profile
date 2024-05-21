@@ -115,7 +115,6 @@ PBHaploMineR is still under development and testing. ETA for first stable versio
 
 ![image](https://github.com/Naouri17/profile/assets/40064898/5ce0817c-1ae9-44b3-98ca-31ad0cec051e)
 
-- Attended the 2019 International Cyberspace Conference  "<a href="http://www.cybermatics.org/CyberCon/CyberDI2019/contact.html" target="_blank">as Conference chair.  </a>" at <a href="https://en.ustb.edu.cn/">Beijing</a>, China
 
 - Attended IEEE International Intelligent Internet of Things Conference 2023 on <a href="https://www.ieee-smartiot.org/" target="_blank"> Internet of Things (IoT)"</a> at Xining, China.
   
