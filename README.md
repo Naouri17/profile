@@ -11,7 +11,7 @@ Cumulative Impact Factor: **60.5**
 
 I have contributed to several peer-reviewed publications in top-tier journals and conferences, focusing on areas such as fog computing, edge computing, IoT applications, federated learning, and service recommendation systems. Some of my notable publications include:
 
-- Naouri, Abdenacer; Wu, Hangxing; Nouri, Nabil Abdelkader; Dhelim, Sahraoui; Ning, Huansheng. "A novel framework for mobile-edge computing by optimizing task offloading." IEEE Internet of Things Journal 8(16): 13065-13076 (2021). IEEE.
+- **Naouri, Abdenacer;** Wu, Hangxing; Nouri, Nabil Abdelkader; Dhelim, Sahraoui; Ning, Huansheng. "A novel framework for mobile-edge computing by optimizing task offloading." IEEE Internet of Things Journal 8(16): 13065-13076 (2021). IEEE.
 
 - **Naouri, Abdenacer;** Ning, Huansheng; Nouri, Nabil Abdelkader; Khelloufi, Amar; Sada, Abdelkarim Ben; Naouri, Salim; Qammar, Attia; Dhelim, Sahraoui. "Maximizing UAV Fog Deployment Efficiency for Critical Rescue Operations."**Future Generation Computer Systems (2024) -  Impact Factor: 10.6**.
 
@@ -22,7 +22,7 @@ I have contributed to several peer-reviewed publications in top-tier journals an
 
 - **Naouri, Abdenacer;** Nouri, Nabil Abdelkader; Qammar, Attia; Shi, Feifei; Ning, Huansheng; Dhelim, Sahraoui. "Task Offloading for Smart Glasses in Healthcare: Enhancing Detection of Elevated Body Temperature." **2023 IEEE International Conference on Smart Internet of Things (SmartIoT).**
 
-Total Citations: **206** <a href="https://scholar.google.com/citations?user=KnuQm0cAAAAJ&hl=en" target="_blank">Google Scholar</a>
+Total Citations: **206** <a href="https://scholar.google.com/citations?user=19TeXs8AAAAJ&hl=en&oi=ao" target="_blank">Google Scholar</a>
 
 #### Technical Skills:
 
