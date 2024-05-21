@@ -11,11 +11,10 @@ Cumulative Impact Factor: **60.5**
 
 I have contributed to several peer-reviewed publications in top-tier journals and conferences, focusing on areas such as fog computing, edge computing, IoT applications, federated learning, and service recommendation systems. Some of my notable publications include:
 
-- **Naouri, Abdenacer;** Wu, Hangxing; Nouri, Nabil Abdelkader; Dhelim, Sahraoui; Ning, Huansheng. "A novel framework for mobile-edge computing by optimizing task offloading." IEEE Internet of Things Journal 8(16): 13065-13076 (2021). IEEE.
-
-- **Naouri, Abdenacer;** Ning, Huansheng; Nouri, Nabil Abdelkader; Khelloufi, Amar; Sada, Abdelkarim Ben; Naouri, Salim; Qammar, Attia; Dhelim, Sahraoui. "Maximizing UAV Fog Deployment Efficiency for Critical Rescue Operations."**Future Generation Computer Systems (2024) -  Impact Factor: 10.6**.
+- **Naouri, Abdenacer;** Wu, Hangxing; Nouri, Nabil Abdelkader; Dhelim, Sahraoui; Ning, Huansheng. "A novel framework for mobile-edge computing by optimizing task offloading." **IEEE Internet of Things Journal 8(16): 13065-13076 (2021). IEEE. Impact Factor: 10.6**.
 
 - **Naouri, Abdenacer;** Ning, Huansheng; Nouri, Nabil Abdelkader; Khelloufi, Amar; Sada, Abdelkarim Ben; Naouri, Salim; Qammar, Attia; Dhelim, Sahraoui. "Maximizing UAV Fog Deployment Efficiency for Critical Rescue Operations." **Future Generation Computer Systems:1-16 (2024). Impact Factor: 7.5**.
+  
 - **Naouri, Abdenacer;** Nouri, Nabil Abdelkader; Khelloufi, Amar; Sada, Abdelkarim Ben; Ning, Huansheng; Dhelim, Sahraoui. "Efficient fog node placement using nature-inspired metaheuristic for IoT applications." **Cluster Computing 1-17 (2024). Springer US New York. Impact Factor: 4.4**.
 
 - **Naouri, Abdenacer;** Nouri, Nabil Abdelkader; Khelloufi, Amar; Sada, Abdelkarim Ben; Naouri, Salim; Ning, Huansheng; Dhelim, Sahraoui. "BusCache: V2V-based infrastructure-free content dissemination system for the Internet of Vehicles." **IEEE Access (2024). IEEE. Impact Factor: 4.0**.
@@ -36,15 +35,22 @@ Total Citations: **206** <a href="https://scholar.google.com/citations?user=19Te
 - **B.Sc.**, Agriculture | <a href="https://cattheni.edu.in/" target="_blank">College of Agricultural Technology</a> (_JUL 2013 - JUL 2017_)
 
 ## 🔬 Research Experience
-**Ph.D. research @<a href="https://tnau.ac.in/" target="_blank">TNAU</a> (_2021 - 2023_)**
+**Ph.D. research @<a href="https://en.ustb.edu.cn/" target="_blank">USTB</a> (_2018 - 2024_)**
 - Developed and applied advanced tissue culture techniques like embryo culture to rapidly generate **somaclonal variants of rice** with improved salinity stress tolerance.
 - Identified and validated novel genomic regions **(QTLs)** governing salinity tolerance through **molecular mapping** in rice F<sub>2</sub> populations along with thorough phenotypic and biochemical characterization.
 - Employed **multi-omics approaches** including GC-MS metabolomics to uncover key genes and metabolites linked to superior osmotic/ionic adjustment under salt stress.
 
 **Research scholar @ <a href="https://www.icrisat.org/" target="_blank">ICRISAT</a> (_2018 - 2020_)**
-- Single plant phenotying of diverse germplasm accessions (Sorghum, Peral millet, Pigeon pea – genotyped 1,980 plants/samples combined) to examine intra and inter accession genetic diversity. 
+
+- Developed innovative solutions leveraging IoT, artificial intelligence, and computing offloading to tackle real-world challenges.
+- Created a facial recognition application utilizing nearby idle devices for efficient task allocation, optimizing latency and communication costs.
+- Deployed fog nodes in high-traffic urban areas to enhance public safety.
+- Implemented UAV fog nodes in disaster-stricken areas to support evacuation and improve emergency communication infrastructure.
+- Advanced the application of cutting-edge technologies through these projects, addressing critical challenges and driving innovation.
+
+<!--- Single plant phenotying of diverse germplasm accessions (Sorghum, Peral millet, Pigeon pea – genotyped 1,980 plants/samples combined) to examine intra and inter accession genetic diversity. 
 - Single plant genotyping of accessions using **<a href="https://www.diversityarrays.com/" target="_blank">DArTSeq</a> based SNPs**.
-- Harnessed whole genome genotyping, simulations, and predictive modeling to provide integrated insights into the dynamics of genetic variation across a species' range, by quantifying genomic diversity within and between isolated subpopulations, and developed optimized statistical frameworks to guide sustainable sampling regimes that limit genetic drift.
+- Harnessed whole genome genotyping, simulations, and predictive modeling to provide integrated insights into the dynamics of genetic variation across a species' range, by quantifying genomic diversity within and between isolated subpopulations, and developed optimized statistical frameworks to guide sustainable sampling regimes that limit genetic drift. -->
 
 ## 💼 Work experience 
 **Data Science Consultant @ <a href="https://www.fiverr.com/allanvictor_?public_mode=true" target="_blank">Fiverr</a> (_Decembe 2020 - Present_)**
