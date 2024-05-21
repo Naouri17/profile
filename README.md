@@ -124,12 +124,12 @@ By eliminating coding barriers, PB-GWAS allows both new and advanced users to le
 * **Remote Management** - Tools for remote configuration and management of IoT devices, enabling efficient maintenance and updates.
 * **Data Analytics** - Comprehensive analytics platform to derive actionable insights from IoT data, supporting decision-making processes.
 
-**Key Features:**
+<!---**Key Features:**
 * **Sequence Import** - Functions to import raw reads from multiple platforms and store in standardized schema
 * **Haplotype Calling** - Optimized algorithms for pangenome-wide haplotype calling, incorporating structural variation
 * **HapViz** - Interactive visualization system to explore and compare haplotypes in context of pangenome structure
 * **HapCompare** - Statistically compare haplotypes between groups of samples/accessions and identify associated genomic signatures
-* **Parallelization** - Built-in parallelization to scale analyses across HPC infrastructure
+* **Parallelization** - Built-in parallelization to scale analyses across HPC infrastructure-->
 
 ## 🎤 Workshop and Conferences
 
