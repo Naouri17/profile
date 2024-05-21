@@ -1,4 +1,4 @@
-# Researcher & Mobile Developer
+![image](https://github.com/Naouri17/profile/assets/40064898/bf74912c-56d5-40c4-932f-6980f371bd20)# Researcher & Mobile Developer
 
 #### Summary: 
 Recent graduate with a PhD degree in Computer Science from the University of Science and Technology of Beijing, 
@@ -110,11 +110,21 @@ By eliminating coding barriers, PB-GWAS allows both new and advanced users to le
 PBHaploMineR is still under development and testing. ETA for first stable version is Q1 2024.
 
 ## 🎤 Workshop and Conferences
-- Attended the workshop on "<a href="https://twitter.com/GenebankICRISAT/status/1169137453472669696" target="_blank">A15 DArTSeq Data Analysis</a>" at <a href="https://www.cimmyt.org/" target="_blank">CIMMYT</a>, Mexico
-- Attended the international conference on <a href="https://twitter.com/GenebankICRISAT/status/1158297753371308032" target="_blank">"Neglected and Underutilized Crop Species for Food, Nutrition, Energy and Environment"</a> at NIPGR, New Delhi. Awarded a travel grant in recognition of contribution. 
-- Attended the workshop on **<a href="https://www.facebook.com/media/set/?vanity=natesan.senthil&set=a.5804435956243670" target="_blank">HPLC: "Principles and Applications in Plant Metabolomics"</a>**" at TNAU,Coimbaotore.
-- Attended the workshop on **<a href="https://www.covaichronicle.com/english/contentview/natu?fbclid=IwAR0fA8w7ubx__cGaKnmE-68-tmRLg92XHs1Rf-HnhQzRjmFc_calVar8yFo" target="_blank">Molecular Modelling and Docking</a>** at TNAU, Coimbatore.
-- Presented poster titled "**Genes for salt tolerance revealed by functional metagenomics in rice**" at 6<sup>th</sup> National conference AC&RI, TNAU, Trichy.
+
+
+
+![image](https://github.com/Naouri17/profile/assets/40064898/5ce0817c-1ae9-44b3-98ca-31ad0cec051e)
+
+- Attended the 2019 International Cyberspace Conference  "<a href="http://www.cybermatics.org/CyberCon/CyberDI2019/contact.html" target="_blank">as Conference chair.
+ </a>" at <a href="https://en.ustb.edu.cn/">Beijing</a>, China
+
+- Attended IEEE International Intelligent Internet of Things Conference 2023 on <a href="https://www.ieee-smartiot.org/" target="_blank"> Internet of Things (IoT)"</a> at Xining, China.
+  
+- Presented paper titled "**Task Offloading for Smart Glasses in Healthcare: Enhancing Detection of Elevated Body Temperature**" at 1<sup>th</sup> SmartIoT 2024 conference, Xining, China.
+
+- Presented paper titled "**The granger causality analysis between acupoints in the same meridian based on skin conductance**" at 1<sup>th</sup> SmartIoT 2024 conference , Xining, China.
+  
+- I attended and participated in the AngelHack Beijing Hackathon 2019. AngelHack welcomes all start-ups, developers, entrepreneurs, and designers to their annual event. The main goal of the hackathon is to create opportunities for innovation.
 
 ## ✍️ Articles & Blogs
 - <a href="https://medium.com/@victorallan" target="_blank">Medium Articles</a>
