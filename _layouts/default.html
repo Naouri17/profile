@@ -6,6 +6,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
      <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
     <style>
         /* Custom CSS for social buttons */
         .social-buttons {
@@ -14,31 +16,32 @@
         }
         
         .social-buttons a {
-            display: block; /* Make the links block elements */
-            margin-bottom: 10px; /* Add space between buttons */
+            display: inline-block; /* Make the links inline-block elements */
+            margin: 0 10px; /* Add horizontal space between buttons */
             text-decoration: none;
-        }
-
-        .social-buttons button {
-            background-color: #1DA1F2; /* Twitter blue */
             color: white;
-            border: none;
-            border-radius: 5px;
-            padding: 10px 20px;
-            cursor: pointer;
-            transition: background-color 0.3s ease;
-            width: 200px; /* Set a fixed width for buttons */
+            font-size: 24px; /* Increase icon size */
         }
 
-        .social-buttons button.linkedin {
+        .social-buttons .twitter {
+            background-color: #1DA1F2; /* Twitter blue */
+        }
+
+        .social-buttons .linkedin {
             background-color: #0077B5; /* LinkedIn blue */
         }
 
-        .social-buttons button.github {
+        .social-buttons .github {
             background-color: #333; /* GitHub dark color */
         }
 
-        .social-buttons button:hover {
+        .social-buttons a {
+            padding: 10px;
+            border-radius: 50%;
+            transition: opacity 0.3s ease;
+        }
+
+        .social-buttons a:hover {
             opacity: 0.8; /* Slightly reduce opacity on hover */
         }
     </style>
