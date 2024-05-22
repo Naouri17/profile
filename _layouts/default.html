@@ -5,13 +5,17 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-     <style>
+     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
+    <style>
         /* Custom CSS for social buttons */
         .social-buttons {
             margin-top: 20px;
+            text-align: center; /* Center the buttons horizontally */
         }
         
         .social-buttons a {
+            display: block; /* Make the links block elements */
+            margin-bottom: 10px; /* Add space between buttons */
             text-decoration: none;
         }
 
@@ -21,13 +25,21 @@
             border: none;
             border-radius: 5px;
             padding: 10px 20px;
-            margin-right: 10px;
             cursor: pointer;
             transition: background-color 0.3s ease;
+            width: 200px; /* Set a fixed width for buttons */
+        }
+
+        .social-buttons button.linkedin {
+            background-color: #0077B5; /* LinkedIn blue */
+        }
+
+        .social-buttons button.github {
+            background-color: #333; /* GitHub dark color */
         }
 
         .social-buttons button:hover {
-            background-color: #0e8bc3; /* Darker shade of Twitter blue on hover */
+            opacity: 0.8; /* Slightly reduce opacity on hover */
         }
     </style>
 
