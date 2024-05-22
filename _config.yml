@@ -11,7 +11,22 @@ social_links:
   
 theme: jekyll-theme-minimal
 
-
+social_links: true  # If true show social links
+rss: true # For add icon to link feed.xml
+facebook:
+git:
+gitlab:
+instagram:
+linkedin:
+pinterest:
+reddit:
+spotify:
+steam:
+telegram:
+twitch:
+twitter:
+vimeo:
+youtube:
 
 github:
   is_project_page: false
