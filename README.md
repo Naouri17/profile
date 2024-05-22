@@ -73,9 +73,7 @@ Total Citations: **206** <a href="https://scholar.google.com/citations?user=19Te
 - Proficient in full stack development of **R packages** using modular coding practices.
 - Created **production-grade Shiny web applications** for interactive data analysis and visualization and; expertise in dependency management tools like Golem for scalable deployment.
 - **Machine learning model** building for image classification/segmentation tasks; trained CNNs and other deep learning architectures in R, Python (PyCharm).
-- **Multivariate data analysis** of large-scale omics datasets including genomics, phenomics and metabolomics using cutting-edge bioinformatics tools.
-- Experience with analysis of **next-generation sequencing** data including quality control, read mapping, variant calling, expression quantification, metagenomic profiling, and associated statistical analysis using standard workflows in R and Python.
-- **Advanced visualization** for multi-dimensional biological data through Circos, ggtree, ggtreeextra, Cytoscape and other platforms.
+- Experience with analysis of **next-generation sequencing** data including quality control, read mapping, variant calling, expression quantification, and associated statistical analysis using standard workflows in R and Python.
 
 <!----**Additional Skills:**
   
