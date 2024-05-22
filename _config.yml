@@ -2,6 +2,13 @@ title: Abdenacer Naouri
 logo:  /assets/img/main.png
 description: PhD. Computer Science
 show_downloads: false
+
+# Social media links
+social_links:
+  twitter: https://twitter.com/yourtwitterhandle
+  github: https://github.com/yourgithubusername
+  linkedin: https://www.linkedin.com/in/yourlinkedinprofile
+  
 theme: jekyll-theme-minimal
 
 
