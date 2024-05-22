@@ -5,6 +5,32 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
+     <style>
+        /* Custom CSS for social buttons */
+        .social-buttons {
+            margin-top: 20px;
+        }
+        
+        .social-buttons a {
+            text-decoration: none;
+        }
+
+        .social-buttons button {
+            background-color: #1DA1F2; /* Twitter blue */
+            color: white;
+            border: none;
+            border-radius: 5px;
+            padding: 10px 20px;
+            margin-right: 10px;
+            cursor: pointer;
+            transition: background-color 0.3s ease;
+        }
+
+        .social-buttons button:hover {
+            background-color: #0e8bc3; /* Darker shade of Twitter blue on hover */
+        }
+    </style>
+
 {% seo %}
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
     <!--[if lt IE 9]>
@@ -45,16 +71,16 @@
 
       </section>
       <footer>
-
         <!-- Add buttons here -->
         <div class="social-buttons">
             <a href="https://twitter.com"><button>Twitter</button></a>
             <a href="https://linkedin.com"><button>LinkedIn</button></a>
             <a href="https://github.com"><button>GitHub</button></a>
         </div>
-        {% if site.github.is_project_page %}
+        
+<!--         {% if site.github.is_project_page %}
         <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
-        {% endif %}
+        {% endif %} -->
 <!--         <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p> -->
       </footer>
     </div>
